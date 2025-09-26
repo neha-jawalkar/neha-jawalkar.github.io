@@ -26,7 +26,7 @@ author:
   avatar           : "neha-photo.jpg" # filename of your avatar image placed in /images/ for the author profile
   name             : "Neha Jawalkar"
   pronouns         : # example: "she/her"  
-  bio              : "My research is focused on building scalable, efficient, and cryptographically-secure systems for machine learning."
+  bio              : "My research focuses on building scalable, efficient, and cryptographically-secure systems for machine learning."
   location         : "Bangalore, India"
   employer         : "Indian Institute of Science, Bangalore"
   uri              : # URL
