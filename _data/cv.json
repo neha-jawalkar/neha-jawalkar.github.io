@@ -4,7 +4,7 @@
     "email": "jawalkarp@iisc.ac.in",
     "phone": "",
     "website": "https://neha-jawalkar.github.io",
-    "summary": "PhD student at the Indian Institute of Science. Short biography for the left-hand sidebar",
+    "summary": "PhD student at the Indian Institute of Science. I work on making cryptographic computation efficient on different hardware platforms.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,12 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=6eE92W8AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0003-8678-4386"
       }
       // ,
       // {
