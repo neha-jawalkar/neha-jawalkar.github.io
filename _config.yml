@@ -230,6 +230,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
+  # Add custom collections here
 
 
 # These settings control how pages and collections are included in the site
