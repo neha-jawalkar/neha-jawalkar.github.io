@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Neha Jawalkar",
+    "email": "jawalkarp@iisc.ac.in",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://neha-jawalkar.github.io",
+    "summary": "PhD student at the Indian Institute of Science. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Bangalore",
+      "countryCode": "India",
       "region": ""
     },
     "profiles": [
@@ -22,12 +22,13 @@
         "network": "ORCID",
         "username": "",
         "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
       }
+      // ,
+      // {
+        // "network": "GitHub",
+        // "username": "academicpages",
+        // "url": "https://github.com/academicpages"
+      // }
     ]
   },
   "work": [],
