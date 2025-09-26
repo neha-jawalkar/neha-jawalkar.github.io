@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Neha Jawalkar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "My research is focused on building scalable, efficient, and cryptographically-secure systems for machine learning."
+  location         : "Bangalore, India"
+  employer         : "Indian Institute of Science, Bangalore"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jawalkarp@iisc.ac.in" 
 
   # Academic websites
   academia         : # URL
