@@ -77,8 +77,12 @@
       <p><a href=" {{ post.paperurl }} ">Paper</a> | <a href="{{ post.bibtexurl }}">Bibtex</a></p>
     {% elsif post.paperurl and post.talkurl and post.bestpaper %}
       <p><a href=" {{ post.paperurl }} ">Paper</a> | <a href="{{ post.talkurl }}">Talk</a> | Best paper nominee! </p>  
+    {% elsif post.paperurl and post.talkurl and post.code %}
+      <p><a href=" {{ post.paperurl }} ">Paper</a> | <a href="{{ post.talkurl }}">Talk</a> | <a href="{{ post.code }}">Code</a>  
     {% elsif post.paperurl and post.talkurl %}
       <p><a href=" {{ post.paperurl }} ">Paper</a> | <a href="{{ post.talkurl }}">Talk</a></p>  
+    {% elsif post.paperurl and post.code %}
+      <p><a href=" {{ post.paperurl }} ">Paper</a> | <a href="{{ post.code }}">Code</a>  
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">Paper</a></p>
     {% elsif post.slidesurl and post.bibtexurl %}
